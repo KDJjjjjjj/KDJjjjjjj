@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development (HTML, CSS, JavaScript) , digital marcketing and how to use Git and GitHub
 - 💞️ I’m looking to collaborate on projects that combine Tech and Social Impact or creative content for Instagram
 - 📫 How to reach me : goudiabykhadidia@gmail.com or on Instagram (https://www.instagram.com/khadija_goudj?igsh=cnVsY3c1MGhoODJm)
-- 😄 Pronouns: She
+- 😄 Pronouns: Laziza
 - ⚡ Fun fact: I'm writing a eBook to help young girls boost their confidence (Glow Up Mental)
 
 <!---
